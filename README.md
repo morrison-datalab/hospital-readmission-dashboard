@@ -35,4 +35,4 @@ All charts use colorblind-friendly palettes.
 
 Tableau
 
-To explore the dashboard interactively, download `Tableau Workbook.twbx` and open it in Tableau Desktop or the free Tableau Public app.
+To explore the dashboard interactively, download `Tableau Package.twbx` and open it in Tableau Desktop or the free Tableau Public app.
