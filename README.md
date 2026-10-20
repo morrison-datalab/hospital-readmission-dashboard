@@ -1,8 +1,6 @@
-# Hospital Readmission Dashboard (Tableau)
+# Hospital Readmission Dashboard 
 
-**[View the interactive dashboard on Tableau Public](TABLEAU_PUBLIC_LINK)**
-
-*Completed for D601, M.S. Data Analytics, Western Governors University.*
+*Completed for D601*
 
 ![Hospital Readmission Overview dashboard](dashboard.png)
 
@@ -38,3 +36,5 @@ All charts use colorblind-friendly palettes.
 ## Tools
 
 Tableau
+
+To explore the dashboard interactively, download `Tableau Workbook.twbx` and open it in Tableau Desktop or the free Tableau Public app.
