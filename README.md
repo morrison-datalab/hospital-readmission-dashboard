@@ -1,6 +1,6 @@
 # Hospital Readmission Dashboard 
 
-https://github.com/morrison-datalab/hospital-readmission-dashboard/blob/main/Dashboard.png
+![Hospital Readmission Overview dashboard](Dashboard.png)
 
 ## Business Problem
 
