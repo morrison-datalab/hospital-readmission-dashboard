@@ -2,7 +2,7 @@
 
 *Completed for D601*
 
-![Hospital Readmission Overview dashboard](dashboard.png)
+![Hospital Readmission Overview dashboard]([dashboard.png](https://github.com/morrison-datalab/hospital-readmission-dashboard/blob/main/Dashboard.png))
 
 ## Business Problem
 
